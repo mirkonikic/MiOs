@@ -3,7 +3,7 @@ Chat application written in Java, client-server type, very secure, highly encryp
 
 
 Client:
-![alt text](http://github.com/mirkonikic/MiOs/Untitled1.png)
+![alt text](https://github.com/mirkonikic/MiOs/blob/main/Untitled1.png)
 
 Server:
-![alt text](http://github.com/mirkonikic/MiOs/Untitled.png)
+![alt text](https://github.com/mirkonikic/MiOs/blob/main/Untitled.png)
